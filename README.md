@@ -4,10 +4,10 @@ A Java-based console application to manage laptop data using JDBC with Maven bui
 
 ## 🛠️ Tech Stack
 
-- **Java** (JDK 8+)
+- **Java**
 - **Maven** (Project Build Tool)
 - **JDBC** (Java Database Connectivity)
-- **MySQL** (or any supported relational DB)
-- **Eclipse IDE** (optional)
+- **Postgresql**
+- **Eclipse IDE** 
 
 ---
